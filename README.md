@@ -1,3 +1,3 @@
-# csharp-exercises-template
+# fcc-csharp-certification
 
-C# template to practice language challenges.
+Microsoft C# certification brough by FreeCodeCamp.
